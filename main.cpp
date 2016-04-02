@@ -22,5 +22,6 @@ int main()
     string planRegistrado[50] = {"Normal", "Bueno", "Premium", "Normal"};
     int cantCajas[50] = {2, 1, 3, 5};
     int mensualidad[50] = {};//Hay que calcularla con el plan y la cantidad de cajas
-
+    
+    prueba
 }
